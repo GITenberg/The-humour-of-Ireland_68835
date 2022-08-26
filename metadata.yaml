@@ -1,0 +1,32 @@
+_repo: The-humour-of-Ireland_68835
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Oliver, (a.k.a. William Henry Pike), (1846-1908) Paque
+    gutenberg_agent_id: '54969'
+    url: http://www.gutenberg.org/2009/agents/54969
+creator:
+  author:
+    agent_name: D. J., (David James), (1866-1917) O'Donoghue
+    gutenberg_agent_id: '54968'
+    url: http://www.gutenberg.org/2009/agents/54968
+description: ''
+gutenberg_issued: '2022-08-25'
+identifiers:
+  gutenberg: '68835'
+language: en
+pgterms:marc904: https://archive.org/details/humourofirelands00odonrich
+pgterms:marc905: 20191230200344odonoghue
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: MFR, Karin Spence and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United Kingdom :The Walter Scott Publishing Co. Ltd.,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The humour of Ireland
+url: http://www.gutenberg.org/ebooks/68835
