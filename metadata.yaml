@@ -5,12 +5,17 @@ contributor:
     agent_name: Oliver, (a.k.a. William Henry Pike), (1846-1908) Paque
     gutenberg_agent_id: '54969'
     url: http://www.gutenberg.org/2009/agents/54969
+covers:
+- cover_type: archival
+  image_path: 68835-h/images/cover.jpg
 creator:
   author:
     agent_name: D. J., (David James), (1866-1917) O'Donoghue
     gutenberg_agent_id: '54968'
     url: http://www.gutenberg.org/2009/agents/54968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68835#The-humour-of-Ireland
 gutenberg_issued: '2022-08-25'
 identifiers:
   gutenberg: '68835'
